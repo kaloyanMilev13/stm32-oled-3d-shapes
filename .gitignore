@@ -1,0 +1,25 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+build/
+
+# Compiler-generated files
+*.o
+*.d
+*.su
+*.cyclo
+
+# Firmware binaries and reports
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+*.srec
+
+# Workspace-specific metadata
+.metadata/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
